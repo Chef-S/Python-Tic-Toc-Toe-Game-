@@ -1,2 +1,2 @@
-# Python-Tic-Toc-Toe-Game-
+# Python-Tic-Toc-Toe-Game
 The first project in Python 
